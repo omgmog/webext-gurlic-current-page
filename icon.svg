@@ -1,0 +1,18 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 25 25" version="1.1" id="svg22">
+  <defs id="defs16"></defs>
+  <metadata id="metadata19">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+        <dc:title></dc:title>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <g id="layer1" transform="translate(0,-272)">
+    <g aria-label="gurlic" transform="matrix(0.15259925,0,0,0.15259925,-13.772615,213.9954)" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.0266571px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill-opacity:1;stroke:none" id="flowRoot24">
+      <path transform="matrix(1.7338442,0,0,1.7338442,90.253491,380.11065)" id="rect33" d="M 1.8828125 1.859375 L 1.8828125 93.066406 L 93.089844 93.066406 L 93.089844 1.859375 L 1.8828125 1.859375 z M 45.341797 28.039062 C 48.480459 28.039062 50.996875 28.985157 52.888672 30.876953 L 52.888672 28.8125 L 60.304688 28.8125 L 60.304688 58.287109 C 60.304687 63.919503 59.122557 67.980878 56.757812 70.474609 C 54.436063 73.011336 50.437108 74.47437 44.761719 74.861328 L 40.763672 68.798828 C 45.364177 68.454865 48.524326 67.744806 50.244141 66.669922 C 52.006951 65.595038 52.888672 63.855006 52.888672 61.447266 L 52.888672 59.511719 C 51.125862 61.532501 48.566529 62.542969 45.212891 62.542969 C 41.171326 62.542969 37.88243 61.058477 35.345703 58.091797 C 32.808976 55.082121 31.541016 50.804215 31.541016 45.257812 C 31.541016 39.969382 32.808976 35.777307 35.345703 32.681641 C 37.88243 29.585974 41.214241 28.039063 45.341797 28.039062 z M 46.503906 35.068359 C 44.05317 35.068359 42.182439 35.95008 40.892578 37.712891 C 39.602717 39.432705 38.957031 41.947169 38.957031 45.257812 C 38.957031 48.396475 39.602717 50.891433 40.892578 52.740234 C 42.225435 54.54604 44.096166 55.449219 46.503906 55.449219 C 49.298605 55.449219 51.426829 54.331462 52.888672 52.095703 L 52.888672 38.357422 C 51.340839 36.164658 49.212615 35.068359 46.503906 35.068359 z " style="opacity:1;vector-effect:none;fill-opacity:1;stroke-width:0.94259328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"></path>
+      <g id="flowRoot23" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:166.02667236px;line-height:1.25;font-family:'Overpass Mono';-inkscape-font-specification:'Overpass Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none" transform="matrix(0.67351174,0,0,0.67351174,125.82956,449.28766)" aria-label="g"></g>
+    </g>
+  </g>
+</svg>
