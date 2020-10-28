@@ -1,20 +1,17 @@
 {
     "manifest_version": 2,
     "name": "Gurlic this page",
-    "description": "This extension will let you share the current page on Gurlic. It will use the selected text as the post body.",
+    "description": "This extension will let you share the current page on Gurlic.",
     "version": "1.0",
     "browser_action": {
         "default_icon": "icon.png"
     },
     "background": {
-        "scripts": ["background.js"]
+        "scripts": [
+            "ext.js",
+            "background.js"
+        ]
     },
-    "content_scripts": [
-        {
-            "matches": ["*://*/*"],
-            "js": ["content_script.js"]
-        }
-    ],
     "permissions": [
        "tabs"
     ],
