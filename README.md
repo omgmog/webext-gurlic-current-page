@@ -1,7 +1,7 @@
-chrome-gurlic-current-page
+webext-gurlic-current-page
 =========================
 
-A simple extension for Chrome that shares the current page on Gurlic. 
+A simple web extension for Chromium/Firefox that shares the current page on Gurlic.com 
 
 ### Installation
 
